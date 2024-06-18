@@ -78,4 +78,57 @@ Energy Agency (IEA), India’s installed renewable energy capacity is projected 
 This remarkable growth reflects India’s commitment to sustainable energy and its transition towards
 cleaner and greener power sources. Carbon incentive policies, exemplified by programs like the
 UCR CoU, will play a pivotal role in achieving this goal.
+________________
+ISSUE DATE: 18/06/2024
+
+QUANTITY: 36995 CoUs
+_____________
+Serial Number: 0001-000001-033651-UCR-CoU-IN-419-31032016-31122016
+
+Vintage Year: 2016
+
+Quantity:33651
+_________
+Serial Number: 0001-033652-076222-UCR-CoU-IN-419-01012017-31122017
+
+Vintage Year:2017
+
+Quantity: 42571
+__________
+Serial Number: 0001-076223-126355-UCR-CoU-IN-419-01012018-31122018
+
+Vintage Year:2018
+
+Quantity: 50133
+______________
+Serial Number: 0001-126356-176994-UCR-CoU-IN-419-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 50639
+_________________
+Serial Number: 0001-176995-223948-UCR-CoU-IN-419-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 46954
+______________
+Serial Number: 0001-223949-271814-UCR-CoU-IN-419-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 47866
+________________
+Serial Number: 0001-271815-320284-UCR-CoU-IN-419-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 48470
+___________
+Serial Number: 0001-320285-369995-UCR-CoU-IN-419-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 49711
+______________
 
